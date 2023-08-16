@@ -1,0 +1,32 @@
+#ab
+{
+	height: 500px;
+	width: 1000px;
+	background-color: lightgray;
+	margin-top: 100px;	
+	margin-left: 200px;
+}
+#bc
+{
+	height: 300px;
+	width: 300px;
+	background-color: whitesmoke;
+	float: left;
+	margin-top: 80px;
+	margin-left: 20px;
+	border-radius: 60px;
+	
+}
+span
+{
+	background-color: blue;
+	border-radius: 80px;
+	font-size: 20px;
+	color:whitesmoke;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
